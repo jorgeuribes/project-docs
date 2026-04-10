@@ -1,1 +1,3 @@
-# project-docs
+# project-docs 
+
+- Inside /docs
