@@ -1,0 +1,5 @@
+[book]
+title = "Testing support docs in Github pages"
+authors = ["jorgeuribes"]
+language = "en"
+src = "docs"
